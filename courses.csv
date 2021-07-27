@@ -1,0 +1,20 @@
+text/csvCoursId,CoursName,idEtudiant,CoursDescri,CoursLevel,CoursDate,PhotoFileName
+1,java,5,java script tools,II2,,image.jpg
+2,java,2,java java script,II2,3/3/2020,image.jpg
+3,python,2,python python,II2,3/3/2020,image.jpg
+4,flask,5,How to install flask,II2,"Monday, May 17, 2021, 1:12 AM",CR-SERIE3_MkDe0cd.docx
+5,Base de donnees,5,Triggers,II3,"Monday, May 17, 2021, 1:25 AM",Exercice3.txt
+6,angular 11,1,"angular services , pipes",II2,"Monday, May 17, 2021, 7:40 PM",register.png
+7,Genie logiciel II,5,Pdf,II2,"Wednesday, May 19, 2021, 10:33 PM",5. TP_IosCiscoLANConfig.pdf
+8,GL II,5,partie La structure de Kripke et Sémantique,II3,"Wednesday, May 19, 2021, 10:44 PM",CHAPII PARTIE1.pdf
+9,Base de donnes,5,les trigerrs,II1,"Wednesday, May 19, 2021, 10:45 PM",Correction TD1 Part 1.pdf
+10,angular,5,"services , pipes and diretives",II3,"Wednesday, May 19, 2021, 10:46 PM",Model checking-Part 1.pdf
+11,PHP,5,send data by session,II1,"Wednesday, May 19, 2021, 10:46 PM",Recueil exemples machines abstraites.pdf
+12,recherche operationelle,5,programme lineaire,II2,"Wednesday, May 19, 2021, 10:53 PM",PLNE Introduction.pdf
+13,microprocesseur MIPS,5,FPGA et VHDL,II2,"Wednesday, May 19, 2021, 11:29 PM",Chapitre 21-FPGA+VHDL.pdf
+14,reseau informatique,1,Fragmentation,II3,"Wednesday, May 19, 2021, 11:33 PM",TD_fragmentation.docx
+16,managment,5,fonction de production,II2,"Wednesday, May 26, 2021, 7:46 PM",managment_ElW5V40.pdf
+17,recherche operationelle,5,methode simplex,II3,"Wednesday, May 26, 2021, 7:51 PM",Chap5 TD algo simplexe.pdf
+18,managment d'entreprise,3,managment d'entreprise,II1,"Saturday, May 29, 2021, 5:13 PM",Partie 2 _ Les curseurs.pdf
+19,managment 2eme annee,3,fonction production,II2,"Saturday, May 29, 2021, 5:17 PM",pdfcoffee.com_td1-corrige-1-pdf-free.pdf
+20,MIPS,3,etude de microcontroleurs,II3,"Saturday, May 29, 2021, 5:19 PM",Chapitre 2-Etude des microcontroleurs STM32.pdf
